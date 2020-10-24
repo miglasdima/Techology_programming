@@ -1,4 +1,4 @@
-# Lab1
+# Devops Lab1
 Lab1 add image
 1. Склонував репозиторій за допомоги команди $ git clone https://github.com/miglasdima/Lab1.git
 2. Закомітити файл за допомоги команди $ git commit
